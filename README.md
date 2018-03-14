@@ -1,0 +1,16 @@
+##1
+	src：
+		api：与后台交互模块文件夹
+		commpm：通用资源文件夹，fonts/img/stylus等
+		components：非路由组件文件夹
+		pafes：路由组件文件夹
+			Msite：首页
+			Classify：分类
+			ShopCart：购物车
+			Profily：我的E宠
+		router：路由器文件夹
+		store：vuex相关模块文件夹
+##2.遇到的问题
+	1）布局
+		轮播图无法调整图片大小，调整大小后又不显示了
+	2）单词会拼写错
